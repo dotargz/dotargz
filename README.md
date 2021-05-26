@@ -1,4 +1,4 @@
-# Hi there hello there i'm OneSpark
+# Hi. i'm OneSpark
 ### idiot who somtimes codes things
 (But everyone seems to think i know what im doing)
 
