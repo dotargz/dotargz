@@ -13,7 +13,7 @@
 
 ### Getting Involved & Other Stats
 
-all of the connections are here: https://onespark.cf
+all of the connections are here: https://beta.onespark.dev
 
 [![Spark's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotargz&bg_color=30,AA00C3,AA00C3&title_color=fff&text_color=fff&icon_color=fff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
