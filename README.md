@@ -1,4 +1,4 @@
-# Hi. i'm OneSpark
+# Hi. i'm BlueSkye
 ### idiot who somtimes codes things
 (But everyone seems to think i know what im doing)
 
@@ -13,7 +13,7 @@
 
 ### Getting Involved & Other Stats
 
-all of the connections are here: https://amidev.cc
+all of the connections are here: https://blueskye.dev
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/788887558478233650)](https://discord.com/users/788887558478233650)
 <hr>
