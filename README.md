@@ -1,6 +1,10 @@
-# Hi! i'm BlueSkye 👋
+# 👋 Hello, My names BlueSkye!  
  [![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=dotargz.visitor.badge.reloaded&color=0080ff&style=for-the-badge&logo=github)](https://github.com/dotargz)
  [![GitHub Followers](https://img.shields.io/github/followers/dotargz?color=0080ff&logo=github&style=for-the-badge)](https://github.com/dotargz?tab=followers/)
 ![Discord](https://img.shields.io/discord/883571805007261747?color=0080ff&label=Discord%20Server&logo=discord&logo-color=fff&style=for-the-badge)
-![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m790545143-2439a04d4844e0e23f09ab45?color=0080ff&style=for-the-badge)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/788887558478233650)](https://discord.com/users/788887558478233650)
+![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m790545143-2439a04d4844e0e23f09ab45?color=0080ff&style=for-the-badge)  
+         💻  (part??)-stack developer  
+         📟  PHP, HTML, and CSS  
+
+💖  Pronouns: Ask  
+📚  More Info: https://blueskye.dev/  
