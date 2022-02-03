@@ -5,6 +5,5 @@
  [![GitHub Latest Profile Commit](https://img.shields.io/github/last-commit/dotargz/dotargz?color=AA00C3&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit)](https://github.com/dotargz/dotargz/commits/master)
 ![Discord](https://img.shields.io/discord/883571805007261747?color=AA00C3&label=Discord%20Server&logo=discord&style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotargz&show_icons=true&theme=prussian)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/788887558478233650)](https://discord.com/users/788887558478233650)
 <hr>
