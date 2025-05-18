@@ -1,1 +1,1 @@
-[![README Banner](https://blueskye.dev/img/cover.png)](https://blueskye.dev/)
+[![README Banner](https://amilia.zip/img/cover.png)](https://amilia.zip)
